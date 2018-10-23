@@ -1,0 +1,4 @@
+#Tue Oct 23 14:18:19 KST 2018
+base.0=/Users/nana/Documents/own_studying/cordova/hello/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

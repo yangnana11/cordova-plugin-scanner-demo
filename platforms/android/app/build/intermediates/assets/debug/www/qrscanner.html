@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <body style="background-color: rgba(0,0,0,0.01)">
+        <p onclick="prepare()">Prepare</p>
+        <p onclick="show()">Show</p>
+        <script type="text/javascript">
+            alert(JSON.stringify(window.QRScanner));
+            function prepare(){
+                QRScanner.prepare();
+            }
+            function show() {
+                QRScanner.show();
+            }
+        </script>
+    </body>
+</html>
